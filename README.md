@@ -40,10 +40,10 @@
 
 ### 📜 Certifications
 
-- ✅ **Responsive Web Design** (freeCodeCamp)
-- ✅ **JavaScript Algorithms & Data Structures** (freeCodeCamp)
-- ✅ **Front End Development Libraries** (freeCodeCamp)
 - ✅ **Backend Development** (YouTube & Udemy)
+- ✅ **Front End Development Libraries** (freeCodeCamp)
+- ✅ **JavaScript Algorithms & Data Structures** (freeCodeCamp)
+- ✅ **Responsive Web Design** (freeCodeCamp)
 
 ### 🧘‍♂️ Beyond Coding
 
