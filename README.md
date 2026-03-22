@@ -35,20 +35,6 @@
 - 🤖 **AI Integration** — learning to build Intelligent web applications powered by **OpenAI & Gemini APIs** using TypeScript.
 - 💻 **[Portfolio Website](https://rustom-portfolio.vercel.app/)** — My personal slice of the internet, beautifully crafted using **Next.js and Tailwind CSS**.
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rustom-yadav&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rustom-yadav&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rustom-yadav&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
