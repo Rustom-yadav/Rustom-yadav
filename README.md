@@ -38,13 +38,18 @@
 
 ---
 
-### 📜 Certifications & Interests
+### 📜 Certifications
 
-| 🏆 Certifications (freeCodeCamp) | 🧘‍♂️ Beyond Coding |
-| :--- | :--- |
-| ✅ Responsive Web Design | 🧘‍♂️ Practicing **Yoga** to stay focused and grounded. |
-| ✅ JavaScript Algorithms & Data Structures | 📖 Reading **Self-Help books** for continuous personal growth. |
-| ✅ Front End Development Libraries | 🍿 Watching **Hollywood movies** (Big fan of them!). |
+- ✅ **Responsive Web Design** (freeCodeCamp)
+- ✅ **JavaScript Algorithms & Data Structures** (freeCodeCamp)
+- ✅ **Front End Development Libraries** (freeCodeCamp)
+- ✅ **Backend Development** (YouTube & Udemy)
+
+### 🧘‍♂️ Beyond Coding
+
+- 🧘‍♂️ Practicing **Yoga** to stay focused and grounded.
+- 📖 Reading **Self-Help books** for continuous personal growth.
+- 🍿 Watching **Hollywood movies** (Big fan of them!).
 
 <br />
 
