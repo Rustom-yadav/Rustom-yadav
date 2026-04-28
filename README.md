@@ -23,11 +23,13 @@
 ### 🛠️ Tech Stack & Skills
 
 **Languages:** JavaScript, Python  
-**Frontend:** React.js, Next.js, Redux Toolkit, ShadCN UI, Tailwind CSS, Bootstrap, HTML5, CSS3  
-**Backend & APIs:** Node.js, Express.js, FastAPI, REST APIs, JWT Authentication  
-**Databases & Storage:** PostgreSQL, MongoDB, Qdrant, Cloudinary  
-**AI & LLMs:** Ollama, LLAMA, OpenAI, Gemini, Grok, RAG, LangChain, LangGraph, MCP Server  
+**Frontend:** React.js, Next.js, Redux Toolkit, ShadCN UI, HTML5, CSS3, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, FastAPI, REST APIs, JWT Authentication  
+**Databases & Services:** PostgreSQL, MongoDB, Qdrant, Cloudinary, Nodemailer, Razorpay  
+**AI Integration:** Ollama, LLAMA, OpenAI, Gemini, Grok, RAG, LangChain, LangGraph, MCP Server  
+**Concepts:** System Design, Microservices, CI/CD, Caching, Rate Limiting, Async/Await  
 **DevOps & Tools:** Git, Docker, GitHub Actions, AWS, Vercel, Render, Postman  
+**OS:** Windows, Mac, Linux  
 
 <br/>
 
@@ -39,9 +41,29 @@
 
 ### 🚀 Featured Projects
 
-- 🎓 **[Mentovara](https://mentovara.vercel.app)** — A highly scalable EdTech platform with course creation, video streaming, and progress tracking. Containerized with Docker, automated via GitHub Actions, and integrated with Razorpay & Nodemailer.
-- 📹 **[Video Streaming Backend API](https://github.com/Rustom-yadav/rustom-backend-project)** — Scalable REST APIs built with Node.js, Express.js, MongoDB, and Cloudinary. Improved response time by ~20% through efficient schema design and optimized media handling.
-- 💻 **[Next.js Developer Portfolio](https://rustom-portfolio.vercel.app/)** — My high-performance personal portfolio built with Next.js and Tailwind CSS featuring dynamic showcases and theme switching.
+🎓 **[Mentovara - Full Stack EdTech Platform](https://mentovara.vercel.app)**  
+**Tech Stack:** Next.js, Node.js, MongoDB, Docker, GitHub Actions, Razorpay, Nodemailer  
+- Developed a highly scalable full-stack EdTech platform featuring course creation, video streaming, and progress tracking.
+- Containerized the application components using Docker to ensure consistent local development and reliable production deployments.
+- Implemented an automated CI/CD pipeline leveraging GitHub Actions for seamless testing and deployment workflows.
+- Integrated Razorpay payment gateway with full webhook support for robust and automated enrollment fulfillment.
+- Engineered REST APIs with secure JWT-based authentication and a built-in SMTP login system using Nodemailer.
+- Optimized backend performance by reducing database calls by ~30% and efficiently resolving CORS and media upload bottlenecks.
+
+<br/>
+
+📹 **[Video Streaming Backend API](https://github.com/Rustom-yadav/rustom-backend-project)**  
+**Tech Stack:** Node.js, Express.js, MongoDB, Cloudinary, JWT  
+- Built scalable REST APIs using Node.js and Express, implementing JWT authentication and secure routing.
+- Improved overall API response time by ~20% through efficient MongoDB schema design and error handling.
+- Integrated Cloudinary for seamless and optimized media handling and storage.
+
+<br/>
+
+💻 **[Next.js Developer Portfolio](https://rustom-portfolio.vercel.app/)**  
+**Tech Stack:** Next.js, Tailwind CSS  
+- Architected a responsive, high-performance UI using Next.js and Tailwind CSS.
+- Added dynamic project showcases and seamless theme switching capabilities.
 
 ---
 
