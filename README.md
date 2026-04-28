@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Vijay+Yadav;Full-Stack+Developer;Passionate+about+AI+%26+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Vijay+(Rustom);Full+Stack+Developer;Generative+%26+Agentic+AI+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
- I'm a <b>Full-Stack Developer</b> passionate about building scalable web applications and exploring the intersection of <b>AI and Modern Web Ecosystems</b>.
+ I'm a <b>Full-Stack Developer (MERN + Next.js)</b> and <b>Generative & Agentic AI Developer</b>. I specialize in building scalable web applications, optimizing performance, and integrating modern AI solutions into robust backend systems.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vijay-yadav-b31a7a300/" target="_blank">
+  <a href="https://www.linkedin.com/in/rustom-yadav-b31a7a300" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://rustom-portfolio.vercel.app/" target="_blank">
@@ -20,38 +20,48 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack & Skills
+
+**Languages:** JavaScript, Python  
+**Frontend:** React.js, Next.js, Redux Toolkit, ShadCN UI, Tailwind CSS, Bootstrap, HTML5, CSS3  
+**Backend & APIs:** Node.js, Express.js, FastAPI, REST APIs, JWT Authentication  
+**Databases & Storage:** PostgreSQL, MongoDB, Qdrant, Cloudinary  
+**AI & LLMs:** Ollama, LLAMA, OpenAI, Gemini, Grok, RAG, LangChain, LangGraph, MCP Server  
+**DevOps & Tools:** Git, Docker, GitHub Actions, AWS, Vercel, Render, Postman  
+
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,express,mongodb,postman,git,github,vercel" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,nextjs,redux,tailwind,bootstrap,html,css,nodejs,express,fastapi,mongodb,postgres,docker,aws,git,github,vercel,postman&perline=10" alt="Skills" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🎓 **[Mentovara](https://mentovara.vercel.app)** — The comprehensive EdTech platform built with **Next.js, MongoDB, Express.js, and Cloudinary**.
-- 📹 **[Video Streaming Backend](https://github.com/Rustom-yadav/rustom-backend-project)** — A robust API prioritizing performance using **Node.js, MongoDB, Express.js, and Cloudinary**.
-- 🤖 **AI Integration** — learning to build Intelligent web applications powered by **OpenAI & Gemini APIs** using TypeScript.
-- 💻 **[Portfolio Website](https://rustom-portfolio.vercel.app/)** — My personal slice of the internet, beautifully crafted using **Next.js and Tailwind CSS**.
-
+- 🎓 **[Mentovara](https://mentovara.vercel.app)** — A highly scalable EdTech platform with course creation, video streaming, and progress tracking. Containerized with Docker, automated via GitHub Actions, and integrated with Razorpay & Nodemailer.
+- 📹 **[Video Streaming Backend API](https://github.com/Rustom-yadav/rustom-backend-project)** — Scalable REST APIs built with Node.js, Express.js, MongoDB, and Cloudinary. Improved response time by ~20% through efficient schema design and optimized media handling.
+- 💻 **[Next.js Developer Portfolio](https://rustom-portfolio.vercel.app/)** — My high-performance personal portfolio built with Next.js and Tailwind CSS featuring dynamic showcases and theme switching.
 
 ---
 
 ### 📜 Certifications
 
-- ✅ **Backend Development** (YouTube & Udemy)
-- ✅ **Front End Development Libraries** (freeCodeCamp)
+- ✅ **Full Stack Generative AI and Agentic AI with Python** (Udemy)
+- ✅ **Frontend Development Libraries and Frameworks** (freeCodeCamp)
 - ✅ **JavaScript Algorithms & Data Structures** (freeCodeCamp)
 - ✅ **Responsive Web Design** (freeCodeCamp)
 
-### 🧘‍♂️ Beyond Coding
+---
 
-- 🧘‍♂️ Practicing **Yoga** to stay focused and grounded.
-- 📖 Reading **Self-Help books** for continuous personal growth.
-- 🍿 Watching **Hollywood movies** (Big fan of them!).
+### 📈 GitHub Stats
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rustom-yadav&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rustom-yadav&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" height="150" alt="GitHub Streak" />
+</p>
+
+---
 
 <div align="center">
 
